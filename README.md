@@ -1,2 +1,2 @@
-# Cse311Project
+# CsProject
 Inventory Management System
